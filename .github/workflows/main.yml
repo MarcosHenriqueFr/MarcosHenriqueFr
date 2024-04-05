@@ -1,4 +1,4 @@
-name: generate animation
+name: rocha snake game animation
 
 on:
   # run automatically every 24 hours
