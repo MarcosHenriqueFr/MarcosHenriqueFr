@@ -10,7 +10,7 @@
 </div>
 <br>
 
-- 🌱 Estou estudando: HTML5, CSS3 e C
+- 🌱 Estou estudando: HTML5, CSS3 e Javascript
 - 👯 Estudando - Engenharia de software
 - 🤔 Aceito críticas nas commits
 
