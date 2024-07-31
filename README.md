@@ -11,9 +11,8 @@
 </div>
 <br>
 
-- 🌱 Estou estudando: HTML5, CSS3 e Javascript
-- 👯 Estudando - Engenharia de software
-- 🤔 Aceito críticas nas commits
+- 🌱 Estou estudando: HTML5, CSS3, Javascript e Java.
+- 👯 Estudando - Engenharia de software.
 
  
 <div> 
