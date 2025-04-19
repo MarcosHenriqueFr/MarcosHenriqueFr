@@ -19,7 +19,7 @@
 </div>
 <br>
 
-- 🌱 Estou estudando: HTML5, CSS3, Javascript e Java.
+- 🌱 Estou estudando: Java, JavaFX e Desenvolvimento Android.
 - 👯 Estudando - Engenharia de software.
 
  
