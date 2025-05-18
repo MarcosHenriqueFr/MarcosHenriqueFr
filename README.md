@@ -19,8 +19,8 @@
 </div>
 <br>
 
-- 🌱 Estou estudando: Java, JavaFX e Desenvolvimento Android.
-- 👯 Estudando - Engenharia de software.
+- 🌱 Estou estudando: Java, Spring e React Native.
+- 👯 Cursando - Engenharia de software.
 
  
 <div> 
